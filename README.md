@@ -17,4 +17,4 @@ pip install python-binance
 Edit cloudtracker.py with your api key and api secret. 
 Change line 119 to reflect desired timeframe (week or day).
 
-Run file and it will alert you to pairs with bullish TK cross nearing or above cloud.
+Run file and it will alert you to pairs nearing or just occuring bullish TK cross nearing or above cloud.
